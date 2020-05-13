@@ -1,4 +1,4 @@
-# Breakout-clone
+# Space Shooter
 **How to Play**
 
 Press ’space’ button to shoot enemies, enemies can attack player, player can avoid bullet or press space to shoot it.
